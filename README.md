@@ -4,7 +4,7 @@
 
 # Who am I?
 <br>
-This is Abheet Sethi a second year undergrad student at `Maharaja agrasen Institute of Technology, Delhi`. I am 19 years old and currently pursuing my B.tech with `Information Technology` as my major. I reside in Sector-15, Rohini, Delhi-110089. I passes out my senior secondary from NK Bagrodia Public school with 96% in CBSE board. Cleared NDA written twice, shortlisted for NAVY and ARMY TES. Fluent in English and a travel lover.
+This is Abheet Sethi a second year undergrad student at `Maharaja agrasen Institute of Technology, Delhi`. I am 19 years old and currently pursuing my B.tech with `Information Technology` as my major. I reside in Sector-15, Rohini, Delhi-110089. I passed out my senior secondary from NK Bagrodia Public school with 96% in CBSE board. Cleared NDA written twice, shortlisted for NAVY and ARMY TES. Fluent in English and a travel lover.
 
 <br><br>
 
@@ -12,7 +12,7 @@ This is Abheet Sethi a second year undergrad student at `Maharaja agrasen Instit
 <br>
 
 - I am currently working on my DSA skills and I am proficient in C++. 
-- I am an enthusiastic Web Developer and currently learning MERN Stack development. 
+- I am an enthusiastic Web Developer, proficient in React JS and currently using Django as the backend framework. 
 - Looking ahead to learn new skills and bring out technological developments.
 
 # Some more Skills
